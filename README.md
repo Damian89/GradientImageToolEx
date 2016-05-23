@@ -36,3 +36,29 @@ Code:
 
     $labtool->draw();
 </pre>
+
+## Beispiel 2:
+<img src="http://storage2.static.itmages.com/i/16/0523/h_1464022382_6354313_e4cb12d084.jpeg">
+
+Code:
+<pre>
+    $labtool = new DamianSchwyrz\GradientImageTool\GradientImageTool(500, 500);
+
+    $labtool->add_position(0)->add_color('000');
+
+
+    $labtool->add_position(50)->add_color('fff');
+
+
+    $labtool->add_position(100)->add_color('000');
+
+    $labtool->calculate_rel_to_abs();
+
+
+    $labtool->create_image();
+
+    $labtool->fill_with_gradient();
+
+
+    $labtool->draw();
+</pre>
