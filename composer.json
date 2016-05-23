@@ -1,0 +1,22 @@
+{
+    "name": "damian89/gradient-image-tool",
+    "description": "Example how to generate colored gradients with php",
+    "authors": [
+        {
+            "name": "Damian Schwyrz",
+            "email": "mail@damianschwyrz.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DamianSchwyrz\\GradientImageTool\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.3.4"
+    }
+    
+}
