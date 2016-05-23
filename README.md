@@ -65,10 +65,14 @@ Code:
 
 
 ## Tests:
+
+<p>Für alle Methoden, die der Nutzer verwenden kann, um Optionen oder Daten festzulegen, existieren Tests. 100% ist der Code allerdings nicht abgedeckt.</p>
+
 <pre>
     phpunit tests/
 </pre>
-<code>
+
+<pre>
 PHPUnit 5.3.2 by Sebastian Bergmann and contributors.
 
 ................                                                  16 / 16 (100%)
@@ -77,4 +81,4 @@ Time: 115 ms, Memory: 8.00Mb
 
 OK (16 tests, 37 assertions)
 
-</code>
+</pre>
