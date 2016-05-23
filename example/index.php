@@ -34,7 +34,7 @@ try
     $labtool->fill_with_gradient();
     $labtool->draw_value();
 
-    $labtool->draw(1);
+    $labtool->draw();
 }
 catch (Exception $exc)
 {
