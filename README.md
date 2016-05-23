@@ -2,6 +2,8 @@
 
 Mit dem Tool lassen sich einfach Bilder erstellen, in denen multiple Farbverläufe zu sehen sind. Bei Bedarf kann auch ein bestimmter Punkt mit einem schwarzen Strich markiert werden.
 
+Weitere Infos und Beispiele gibt es auf meiner Seite: <a href="https://www.damianschwyrz.de/multiple-farbverlaeufe-in-einem-bild-mit-php/">damianschwyrz.de</a>
+
 ## Beispiel 1:
 <img src="http://storage6.static.itmages.com/i/16/0523/h_1464022041_4878901_58c77ac2e4.jpeg">
 
