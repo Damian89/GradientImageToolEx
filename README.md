@@ -1,1 +1,0 @@
-# Farbverläufe mit PHP
