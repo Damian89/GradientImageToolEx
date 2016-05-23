@@ -70,7 +70,7 @@ class GradientImageTool
      * Hier wird das Bild temporär gespeichert 
      * 
      * @access private
-     * @var int|float
+     * @var resource
      */
     private $image;
 
