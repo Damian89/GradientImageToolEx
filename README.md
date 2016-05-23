@@ -62,3 +62,19 @@ Code:
 
     $labtool->draw();
 </pre>
+
+
+## Tests:
+<pre>
+    phpunit tests/
+</pre>
+<code>
+PHPUnit 5.3.2 by Sebastian Bergmann and contributors.
+
+................                                                  16 / 16 (100%)
+
+Time: 115 ms, Memory: 8.00Mb
+
+OK (16 tests, 37 assertions)
+
+</code>
